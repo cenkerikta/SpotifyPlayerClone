@@ -1,4 +1,4 @@
-package com.example.spotifyclone.ui.theme
+package com.example.spotifyplayerclone.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

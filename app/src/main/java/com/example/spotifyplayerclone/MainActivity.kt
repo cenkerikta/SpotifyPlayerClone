@@ -1,4 +1,4 @@
-package com.example.spotifyclone
+package com.example.spotifyplayerclone
 
 import android.annotation.SuppressLint
 import android.os.Bundle
@@ -34,10 +34,10 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.spotifyclone.ui.theme.MusicBarTextColor
-import com.example.spotifyclone.ui.theme.SpecializedButton
-import com.example.spotifyclone.ui.theme.SpotifyCloneTheme
-import com.example.spotifyclone.ui.theme.White
+import com.example.spotifyplayerclone.ui.theme.MusicBarTextColor
+import com.example.spotifyplayerclone.ui.theme.SpecializedButton
+import com.example.spotifyplayerclone.ui.theme.SpotifyCloneTheme
+import com.example.spotifyplayerclone.ui.theme.White
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -1,4 +1,4 @@
-package com.example.spotifyclone
+package com.example.spotifyplayerclone
 
 import org.junit.Test
 

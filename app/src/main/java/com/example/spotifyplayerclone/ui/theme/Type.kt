@@ -1,4 +1,4 @@
-package com.example.spotifyclone.ui.theme
+package com.example.spotifyplayerclone.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
@@ -6,7 +6,7 @@ import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
-import com.example.spotifyclone.R
+import com.example.spotifyplayerclone.R
 
 // Set of Material typography styles to start with
 val Typography = Typography(
